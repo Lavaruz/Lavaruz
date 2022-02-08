@@ -3,7 +3,7 @@
 Hayy. iam a web developer who has a deep interest in computer technology.  
 In addition to being a web developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course
 
-You can look my **Website Portfolio** if you mind [here](https://lavaruz.github.io/Assami-Portfolio/)
+You can see my **Portfolio Website** [here](https://lavaruz.github.io/Assami-Portfolio/)
 
 Social Link:
 
