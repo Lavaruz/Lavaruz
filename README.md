@@ -1,7 +1,8 @@
-## I'am Assami Muzaki (Fullstack Web Developer)
+## I'am Assami Muzaki (Backend Web Developer | (Ex.)Machine Learning Enginer)
 
-Hayy. iam a web developer who has a deep interest in computer technology.  
-In addition to being a web developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course
+A student at University of Indraprasta with a majoring of Computer Science and Distiction Graduate of Machine Learning Student at Bangkit Academy. Proificient at Machine Learning and Automate Task with Python Program also now focusing on learning backend web development
+
+In addition to being a Backend Web Developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course
 
 ##### Activity: 👨‍🎓 Machinie Leraning Student at Bangkit Academy
 
