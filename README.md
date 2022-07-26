@@ -1,6 +1,6 @@
 ## I'am Assami Muzaki (Backend Web Developer | (Ex.)Machine Learning Enginer)
 
-A student at University of Indraprasta with a majoring of Computer Science and Distiction Graduate of Machine Learning Student at Bangkit Academy. Proificient at Machine Learning and Automate Task with Python Program also now focusing on learning backend web development
+A student at University of Indraprasta with a majoring of Computer Science and Distiction Graduate of Machine Learning Student at Bangkit Academy. Proificient at Machine Learning and Automate Task with Python Program. But currently focusing on learn **Backend Web Development**
 
 In addition to being a Backend Web Developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course
 
