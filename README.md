@@ -1,10 +1,10 @@
-## I'am Assami Muzaki (Backend Developer (NodeJS) | (Ex.)Machine Learning Enginer)
+## I'am Assami Muzaki ( Backend Developer (NodeJS) )
 
 A student at University of Indraprasta with a majoring of Computer Science and Distiction Graduate of Machine Learning Student at Bangkit Academy. Proificient at Machine Learning and Automate Task with Python Program. But currently focusing on learn **Backend Web Development**
 
 In addition to being a Backend Web Developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course
 
-##### Activity: 👨‍🎓 Machinie Leraning Student at Bangkit Academy
+##### Activity: 👨‍🎓 Backend Developer Student at Zero to Mastery
 
 You can see my **Website Portfolio** [Here](https://lavaruz.github.io/Assami-Portfolio/)
 
