@@ -2,7 +2,7 @@
 
 A student at University of Indraprasta with a majoring of Computer Science and Distiction Graduate of Machine Learning Student at Bangkit Academy. Proificient at Machine Learning and Automate Task with Python Program. But currently focusing on **Backend Web Development**
 
-In addition to being a Backend Web Developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course
+<!-- In addition to being a Backend Web Developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course -->
 
 ##### Activity: 👨‍🎓 Backend Developer Student at Zero to Mastery
 
