@@ -1,12 +1,12 @@
 ## I'am Assami Muzaki ( Backend Developer | NodeJS, Golang )
 
-A student at University of Indraprasta with a majoring of Computer Science and Distiction Graduate of Machine Learning Student at Bangkit Academy. Proificient at Machine Learning and Automate Task with Python Program. But currently focusing on **Backend Web Development**
+A student at University of Indraprasta with a majoring of Computer Science and Distiction Graduate of Machine Learning Student at Bangkit Academy. Proificient at Server-Side Programming such as Creating RESTfulAPI, Databases Management, Unit Test, etc. Currently focusing on **Express JS** and Go Language
 
 <!-- In addition to being a Backend Web Developer, I also learn a variety of other things such as 3D Design, Game Developers, and Machine Learning, ah and some Pixel Art of course -->
 
-##### Activity: 👨‍🎓 Backend Developer Student at Zero to Mastery
+##### Activity: 👨‍🎓 Backend Developer Student at Zero to Mastery, Pemrograman Go-Lang : Pemula sampai Mahir at Udemy
 
-[ **Website Portfolio** ](https://lavaruz-porfolio.vercel.app/)
+[ **Website Portfolio** ](https://lavaruz-porfolio.vercel.app/) (outdated)
 
 ##### Social Link:
 
