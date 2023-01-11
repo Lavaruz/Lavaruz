@@ -6,7 +6,7 @@ A student at University of Indraprasta with a majoring of Computer Science and D
 
 ##### Activity: 👨‍🎓 Backend Developer Student at Zero to Mastery, Pemrograman Go-Lang : Pemula sampai Mahir at Udemy
 
-[ **Website Portfolio** ](https://lavaruz-porfolio.vercel.app/) (outdated)
+[ **Website Portfolio** ](https://lavaruz-porfolio.vercel.app/)
 
 ##### Social Link:
 
