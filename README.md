@@ -1,7 +1,6 @@
 ## I'am Assami Muzaki ( Backend Developer | NodeJS )
 
-Distiction Graduate Student at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka.
-Proificient at Server-Side Programming, such as Creating RESTfulAPI, Databases Management, Unit Test, etc.
+Distinction Graduate Student at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka. Proficient at Server-Side Programming, such as Creating RESTfulAPI, Databases Management, Unit Test, etc.
 
 Currently focusing on Express JS **
 
