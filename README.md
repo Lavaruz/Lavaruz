@@ -1,4 +1,4 @@
-## I'm Assami Muzaki ( Backend Developer | NodeJS )
+## I am Assami Muzaki ( Fullstack Developer )
 
 Distinction Graduate Student at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka. Proficient at Server-Side Programming, such as Creating RESTfulAPI, Databases Management, Unit Test, etc.
 
